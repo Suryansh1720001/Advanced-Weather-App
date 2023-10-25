@@ -8,3 +8,11 @@ Upon opening the app, users are greeted with a visually appealing layout that di
 ### Screenshort 
 
 <img src= "https://github.com/Suryansh1720001/Advanced-Weather-App/assets/85965606/f2f94307-370d-45e3-8f8a-48dcf5f110d4" width="30%" height="40%">
+
+### How to add API
+
+Add your API here in constant file (https://openweathermap.org/api) :-
+
+<img src= "https://github.com/Suryansh1720001/Advanced-Weather-App/assets/85965606/035067e4-9513-4b48-a3c3-fe8ecb33a6a6" width="50%" height="40%">
+
+
