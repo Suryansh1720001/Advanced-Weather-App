@@ -565,6 +565,8 @@ class MainActivity : AppCompatActivity() {
         // Initialize the Fused location variable
         mFusedLocationClient = LocationServices.getFusedLocationProviderClient(this)
 
+        Toast.makeText(this@MainActivity,"Please Turn On the Light Mode. I'll create this application for dark mode also. But till now enjoy that.",Toast.LENGTH_LONG).show()
+
         if (!isLocationEnabled()) {
             Toast.makeText(
                 this,
