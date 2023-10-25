@@ -7,4 +7,4 @@ Upon opening the app, users are greeted with a visually appealing layout that di
 
 ### Screenshort 
 
-<img src= "https://github.com/Suryansh1720001/Advanced-Weather-App/assets/85965606/f2f94307-370d-45e3-8f8a-48dcf5f110d4" width="80%" height="70%">
+<img src= "https://github.com/Suryansh1720001/Advanced-Weather-App/assets/85965606/f2f94307-370d-45e3-8f8a-48dcf5f110d4" width="30%" height="40%">
