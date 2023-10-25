@@ -4,7 +4,7 @@ The Weather Android app is a handy tool designed to provide users with up-to-dat
 
 Upon opening the app, users are greeted with a visually appealing layout that displays the current temperature, humidity, wind speed, and other relevant weather data. The app often utilizes location services to automatically detect the user's current location and provide them with localized weather information. Additionally, users can also manually search for specific cities or regions to get weather updates for those locations.
 
-##### Kindly use this application in the Light Mode/Day Mode. I'll update the application for the Dark Mode also.
+### Kindly use this application in the Light Mode/Day Mode. I'll update the application for the Dark Mode also.
 
 ### Screenshort 
 
